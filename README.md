@@ -1,2 +1,2 @@
 # major-project
-This is our major project in Web Development May
+Web Development (Priority Based To Do List)
